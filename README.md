@@ -49,7 +49,7 @@
 
 <p>
 <a href="https://github.com/thunder2344w">GitHub</a> |
-<a href="https://www.linkedin.com/in/vinay-baghel-377276297" target="_blank" >LinkedIn</a>
+<a href="https://www.linkedin.com/in/vinay-baghel-377276297" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 ---
