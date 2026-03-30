@@ -54,12 +54,6 @@
 
 ---
 
-## ⚡ Fun Fact
-
-I don’t just learn tech — I build, experiment, and improve every single day.
-
----
-
 ## 💬 Quote
 
 > "Consistency + Curiosity = Growth 🚀"
